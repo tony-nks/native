@@ -1,0 +1,11 @@
+# ninja log v5
+1	53	700760397	CMakeFiles/calc.dir/C_/Devel/Projects/Courses/sb19/ffi/ffi_bridge.c.o	453bbfb4878446cd
+54	145	700760397	C:/Devel/Projects/Courses/sb19/build/app/intermediates/cxx/Debug/4351443g/obj/armeabi-v7a/libcalc.so	6396f0787dd48a47
+3	39	700760646	CMakeFiles/calc.dir/C_/Devel/Projects/Courses/sb19/ffi/ffi_bridge.c.o	453bbfb4878446cd
+39	132	700760646	C:/Devel/Projects/Courses/sb19/build/app/intermediates/cxx/Debug/4351443g/obj/armeabi-v7a/libcalc.so	6396f0787dd48a47
+1	35	700760789	CMakeFiles/calc.dir/C_/Devel/Projects/Courses/sb19/ffi/ffi_bridge.c.o	453bbfb4878446cd
+35	124	700760789	C:/Devel/Projects/Courses/sb19/build/app/intermediates/cxx/Debug/4351443g/obj/armeabi-v7a/libcalc.so	6396f0787dd48a47
+0	52	700760837	CMakeFiles/calc.dir/C_/Devel/Projects/Courses/sb19/ffi/ffi_bridge.c.o	453bbfb4878446cd
+52	140	700760837	C:/Devel/Projects/Courses/sb19/build/app/intermediates/cxx/Debug/4351443g/obj/armeabi-v7a/libcalc.so	6396f0787dd48a47
+2	53	700760901	CMakeFiles/calc.dir/C_/Devel/Projects/Courses/sb19/ffi/ffi_bridge.c.o	453bbfb4878446cd
+53	150	700760901	C:/Devel/Projects/Courses/sb19/build/app/intermediates/cxx/Debug/4351443g/obj/armeabi-v7a/libcalc.so	6396f0787dd48a47

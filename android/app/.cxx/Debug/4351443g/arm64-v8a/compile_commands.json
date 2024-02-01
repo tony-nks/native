@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Devel/Projects/Courses/sb19/android/app/.cxx/Debug/4351443g/arm64-v8a",
+  "command": "C:\\Users\\sladk\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/sladk/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/sladk/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcalc_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\calc.dir\\C_\\Devel\\Projects\\Courses\\sb19\\ffi\\ffi_bridge.c.o -c C:\\Devel\\Projects\\Courses\\sb19\\ffi\\ffi_bridge.c",
+  "file": "C:\\Devel\\Projects\\Courses\\sb19\\ffi\\ffi_bridge.c"
+}
+]

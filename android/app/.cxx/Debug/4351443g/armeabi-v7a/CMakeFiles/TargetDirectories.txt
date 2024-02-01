@@ -1,0 +1,3 @@
+C:/Devel/Projects/Courses/sb19/android/app/.cxx/Debug/4351443g/armeabi-v7a/CMakeFiles/calc.dir
+C:/Devel/Projects/Courses/sb19/android/app/.cxx/Debug/4351443g/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Devel/Projects/Courses/sb19/android/app/.cxx/Debug/4351443g/armeabi-v7a/CMakeFiles/rebuild_cache.dir
